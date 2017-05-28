@@ -1,5 +1,5 @@
 # Bitdirect-Wallpapers
-Wallpapers | Bitdirect and Cryptonote Images
+Desktop Wallpapers | Bitdirect and Cryptonote Images
 ----------------------------------------------
 
 .png images
